@@ -1,0 +1,19 @@
+{
+  "name": "vue-dndocs",
+  "version": "0.0.1",
+  "description": "vue-dndrop documentation",
+  "main": "index.js",
+  "authors": {
+    "name": "amendx"
+  },
+  "repository": "https://github.com/amendx/vue-dndrop/vue-dndocs",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3",
+    "vue-dndrop": "1.1.8"
+  }
+}
